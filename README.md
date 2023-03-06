@@ -4,10 +4,10 @@
 
 ## языки и инструменты:
 
-<img width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img width="26px" src="https://img.icons8.com/color/256/figma--v1.png"/>
-<img width="26px"  src="https://img.icons8.com/color/256/bootstrap.png"/>
-<img width="26px"  src="https://img.icons8.com/color/256/visual-studio-code-2019.png"/>
+<img align="left" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" width="30px" src="https://img.icons8.com/color/256/figma--v1.png"/>
+<img align="left" width="30px"  src="https://img.icons8.com/color/256/bootstrap.png"/>
+<img align="left" width="30px"  src="https://img.icons8.com/color/256/visual-studio-code-2019.png"/>
